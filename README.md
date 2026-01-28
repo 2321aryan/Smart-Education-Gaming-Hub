@@ -1,4 +1,4 @@
-# Kids Kiro App 🎮
+# Kids Gaming App 🎮
 
 A fun, educational web application designed for children aged 7-14 featuring interactive games, an AI assistant, and a colorful, kid-friendly interface.
 
@@ -160,3 +160,4 @@ For issues or questions, please create an issue in the repository.
 ---
 
 Made with ❤️ for kids to learn and have fun!
+
